@@ -6,3 +6,5 @@ Code for the Git and GitHub Exercise
 · Hristo takes the role "Shuffler"
 
 · Milena takes the role "Styler"
+
+#Test new version
